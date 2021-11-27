@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 600" style="enable-background:new 0 0 800 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FF0000;}
+	.st2{fill:#19FC00;}
+	.st3{fill:#0ED8D8;stroke:#000000;stroke-miterlimit:10;}
+	.enrojecido {
+			fill: red;
+	}
+	.enrojecido:hover {
+			fill: pink;
+			transform: scale(110%) translate(-5%, -5%) rotate(5deg);
+			transition: all ease 0.5s;
+			cursor: pointer;
+	}
+	*{transition: all ease 0.5s}
+
+</style>
+<line class="st0" x1="294" y1="40" x2="494" y2="240"/>
+<polyline class="st0" points="83,285 103,290 123,305 143,385 183,405 263,445 "/>
+<circle id="Circulo_Rojo" class="st1" cx="194.3811" cy="80" r="40"/>
+<circle id="Circulo_Verde" class="st2" cx="242.3811" cy="183" r="40"/>
+<ellipse class="st1" cx="83" cy="483" rx="30" ry="50"/>
+<rect x="43" y="158" width="50" height="50"/>
+<polygon class="enrojecido" points="587.6189,51.8281 637.6189,231.8281 547.6189,251.8281 "/>
+<path class="enrojecido" d="M652,319l-75,200h150L652,319z"/>
+<polygon class="enrojecido" points="330,306 600,356 458,300 472,600 414,379 463,445 410,469 382,401 330,441 307,402 364,377 307,342 "/>
+</svg>
