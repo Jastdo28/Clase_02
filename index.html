@@ -9,6 +9,10 @@
 
             @import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
+            /* Importacion JP  */
+
+            @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
             /* vamos a contradecir a Bootstrap, partiendo por la fuente tipográfica y afectando sus variables --> https://getbootstrap.com/docs/5.1/customize/css-variables/  */
 
             :root {
@@ -22,6 +26,7 @@
             h3,
             h4 {
                 font-weight: 400;
+                font-family: 'Bebas Neue', cursive;
             }
 
             /* vamos a ajustar los pesos de otros títulos y negrita a lo que dispone la fuente  */
@@ -76,14 +81,22 @@
                   	.lente_00{fill:#FFFF00;fill-opacity:0.5;stroke:#0000F9;stroke-width:7;stroke-miterlimit:10;}
                   	.lente_01{font-family:'MyriadPro-Regular';}
                   	.lente_02{font-size:35px;}
+                    .gradiente{fill:url(#SVGID_1_);}
                   </style>
                   <image width="650" height="433" xlink:href="img/michael-jackson.jpg" ></image>
                   <circle class="lente_00" cx="239.2009" cy="192.075" r="40.9025"/>
                   <circle class="lente_00" cx="355.2578" cy="180.1035" r="40.9025"/>
                   <line class="lente_00" x1="282.4313" y1="188.7495" x2="314.7065" y2="185.3885"/>
                   <text transform="matrix(1 0 0 1 476.8572 238.9633)"><tspan x="0" y="0" class="lente_01 lente_02">Michael </tspan><tspan x="0" y="42" class="lente_01 lente_02">Jackson</tspan></text>
+                  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="198.2984" y1="341.9788" x2="198.2984" y2="91.0212">
+                  	<stop  offset="0" style="stop-color:#8CC63F"/>
+                  	<stop  offset="0.9941" style="stop-color:#ED1C24;stop-opacity:0"/>
+                  </linearGradient>
+                  <rect x="155.9548" y="91.0212" class="gradiente" width="84.6871" height="250.9576"/>
                   </svg>
 
+                  <!-- Este es un SVG animado-->
+                  <object class="mx-5" data="img/el-grito-JP.svg" type="image/svg+xml"></object>
 
                   <!-- Este es un objeto que llama a un SVG -->
                   <object class="align-middle" data="img/SVG_JP_001.svg" type="image/svg+xml"></object>

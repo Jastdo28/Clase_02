@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 650 433" style="enable-background:new 0 0 650 433;" xml:space="preserve">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 650 433" version="1.1" viewBox="0 0 650 433" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
 <style type="text/css">
 	.st0{fill:#FFFF00;fill-opacity:0.5;stroke:#0000F9;stroke-width:7;stroke-miterlimit:10;}
 	.st1{font-family:'MyriadPro-Regular';}
 	.st2{font-size:35px;}
+	.st3{fill:url(#a);}
 </style>
-<circle class="st0" cx="239.2009" cy="192.075" r="40.9025"/>
-<circle class="st0" cx="355.2578" cy="180.1035" r="40.9025"/>
-<line class="st0" x1="282.4313" y1="188.7495" x2="314.7065" y2="185.3885"/>
-<text transform="matrix(1 0 0 1 476.8572 238.9633)"><tspan x="0" y="0" class="st1 st2">Michael </tspan><tspan x="0" y="42" class="st1 st2">Jackson</tspan></text>
+<circle class="st0" cx="239.2" cy="192.08" r="40.902"/>
+<circle class="st0" cx="355.26" cy="180.1" r="40.902"/>
+<line class="st0" x1="282.43" x2="314.71" y1="188.75" y2="185.39"/>
+<text transform="translate(476.86 238.96)"><tspan class="st1 st2" x="0" y="0">Michael </tspan><tspan class="st1 st2" x="0" y="42">Jackson</tspan></text>
+<linearGradient id="a" x1="198.3" x2="198.3" y1="341.98" y2="91.021" gradientUnits="userSpaceOnUse">
+	<stop stop-color="#8CC63F" offset="0"/>
+	<stop stop-color="#ED1C24" stop-opacity="0" offset=".9941"/>
+</linearGradient>
+<rect class="st3" x="155.95" y="91.021" width="84.687" height="250.96"/>
 </svg>
