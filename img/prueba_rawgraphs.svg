@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="805" height="600">
+    <rect width="805" height="600" x="0" y="0" fill="#FFFFFF" id="backgorund" />
+    <g transform="translate(10,10)" id="visualization">
+        <g>
+            <rect x="0" y="5.000000000000114" height="9.215686274509803" width="5" fill="black"><title>Coal reserves: 1</title></rect>
+            <rect x="0" y="19.215686274509917" height="9.215686274509803" width="5" fill="black"><title>Coal imports: 1</title></rect>
+            <rect x="0" y="33.43137254901972" height="9.2156862745098" width="5" fill="black"><title>Oil reserves: 1</title></rect>
+            <rect x="0" y="47.64705882352952" height="9.215686274509807" width="5" fill="black"><title>Oil imports: 1</title></rect>
+            <rect x="0" y="61.862745098039326" height="9.215686274509807" width="5" fill="black"><title>Gas reserves: 1</title></rect>
+            <rect x="0" y="76.07843137254913" height="9.215686274509807" width="5" fill="black"><title>Gas imports: 1</title></rect>
+            <rect x="0" y="90.29411764705894" height="9.215686274509807" width="5" fill="black"><title>UK land based bioenergy: 1</title></rect>
+            <rect x="0" y="104.50980392156875" height="9.215686274509807" width="5" fill="black"><title>Agricultural 'waste': 1</title></rect>
+            <rect x="0" y="118.72549019607855" height="9.215686274509807" width="5" fill="black"><title>Coal: 1</title></rect>
+            <rect x="0" y="132.94117647058835" height="9.215686274509807" width="5" fill="black"><title>Oil: 1</title></rect>
+            <rect x="0" y="147.15686274509815" height="9.215686274509807" width="5" fill="black"><title>Natural Gas: 1</title></rect>
+            <rect x="780" y="-1.1368683772161603e-13" height="9.215686274509778" width="5" fill="black"><title>District heating: 1</title></rect>
+            <rect x="0" y="161.37254901960796" height="9.215686274509778" width="5" fill="black"><title>Wind: 1</title></rect>
+            <rect x="0" y="175.58823529411774" height="9.215686274509778" width="5" fill="black"><title>Hydro: 1</title></rect>
+            <rect x="0" y="189.80392156862752" height="9.215686274509778" width="5" fill="black"><title>District heating: 1</title></rect>
+            <rect x="780" y="14.215686274509665" height="9.215686274509835" width="5" fill="black"><title>Domestic aviation: 1</title></rect>
+            <rect x="780" y="28.4313725490195" height="9.215686274509835" width="5" fill="black"><title>National navigation: 1</title></rect>
+            <rect x="780" y="42.647058823529335" height="9.215686274509835" width="5" fill="black"><title>International aviation: 1</title></rect>
+            <rect x="780" y="56.86274509803917" height="9.215686274509835" width="5" fill="black"><title>International shipping: 1</title></rect>
+            <rect x="780" y="71.078431372549" height="18.431372549019613" width="5" fill="black"><title>Coal: 2</title></rect>
+            <rect x="780" y="94.50980392156862" height="18.431372549019613" width="5" fill="black"><title>Oil: 2</title></rect>
+            <rect x="780" y="117.94117647058823" height="18.431372549019613" width="5" fill="black"><title>Natural Gas: 2</title></rect>
+            <rect x="0" y="204.0196078431373" height="18.431372549019613" width="5" fill="black"><title>Other waste: 2</title></rect>
+            <rect x="780" y="141.37254901960785" height="18.431372549019613" width="5" fill="black"><title>Liquid: 2</title></rect>
+            <rect x="780" y="164.80392156862746" height="18.431372549019613" width="5" fill="black"><title>Gas: 2</title></rect>
+            <rect x="780" y="188.23529411764707" height="18.431372549019613" width="5" fill="black"><title>Thermal generation: 2</title></rect>
+            <rect x="780" y="211.66666666666669" height="18.431372549019613" width="5" fill="black"><title>Heating and cooling - homes: 2</title></rect>
+            <rect x="780" y="235.0980392156863" height="18.431372549019613" width="5" fill="black"><title>Heating and cooling - commercial: 2</title></rect>
+            <rect x="780" y="258.5294117647059" height="18.431372549019613" width="5" fill="black"><title>Lighting &amp; appliances - homes: 2</title></rect>
+            <rect x="780" y="281.9607843137255" height="18.431372549019613" width="5" fill="black"><title>Lighting &amp; appliances - commercial: 2</title></rect>
+            <rect x="780" y="305.39215686274514" height="18.43137254901967" width="5" fill="black"><title>Road transport: 2</title></rect>
+            <rect x="780" y="328.8235294117648" height="18.431372549019613" width="5" fill="black"><title>Rail transport: 2</title></rect>
+            <rect x="780" y="352.2549019607844" height="27.64705882352939" width="5" fill="black"><title>Bio-conversion: 3</title></rect>
+            <rect x="780" y="384.9019607843138" height="27.64705882352939" width="5" fill="black"><title>Solid: 3</title></rect>
+            <rect x="0" y="227.4509803921569" height="27.64705882352942" width="5" fill="black"><title>Solid: 3</title></rect>
+            <rect x="0" y="260.0980392156863" height="27.64705882352939" width="5" fill="black"><title>Thermal generation: 3</title></rect>
+            <rect x="780" y="417.5490196078432" height="27.64705882352939" width="5" fill="black"><title>Electricity grid: 3</title></rect>
+            <rect x="0" y="292.7450980392157" height="36.86274509803923" width="5" fill="black"><title>Bio-conversion: 4</title></rect>
+            <rect x="780" y="450.1960784313726" height="36.86274509803923" width="5" fill="black"><title>Losses: 4</title></rect>
+            <rect x="780" y="492.0588235294118" height="36.86274509803923" width="5" fill="black"><title>Agriculture: 4</title></rect>
+            <rect x="780" y="533.921568627451" height="46.07843137254895" width="5" fill="black"><title>Industry: 5</title></rect>
+            <rect x="0" y="334.6078431372549" height="73.7254901960784" width="5" fill="black"><title>Gas: 8</title></rect>
+            <rect x="0" y="413.3333333333333" height="73.72549019607834" width="5" fill="black"><title>Liquid: 8</title></rect>
+            <rect x="0" y="492.05882352941165" height="82.94117647058823" width="5" fill="black"><title>Electricity grid: 9</title></rect>
+        </g>
+        <g fill="none" stroke-opacity="1">
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,9.607843137255015C392.5,9.607843137255015,392.5,75.68627450980391,780,75.68627450980391" stroke="#9467bd" stroke-width="9.215686274509803" />
+                <title>Coal reserves → Coal: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,23.823529411764817C392.5,23.823529411764817,392.5,84.90196078431372,780,84.90196078431372" stroke="#d62728" stroke-width="9.215686274509803" />
+                <title>Coal imports → Coal: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,38.03921568627462C392.5,38.03921568627462,392.5,99.11764705882352,780,99.11764705882352" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Oil reserves → Oil: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,52.25490196078442C392.5,52.25490196078442,392.5,108.33333333333333,780,108.33333333333333" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Oil imports → Oil: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,66.47058823529423C392.5,66.47058823529423,392.5,122.54901960784314,780,122.54901960784314" stroke="#17becf" stroke-width="9.215686274509803" />
+                <title>Gas reserves → Natural Gas: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,80.68627450980404C392.5,80.68627450980404,392.5,131.76470588235293,780,131.76470588235293" stroke="#bcbd22" stroke-width="9.215686274509803" />
+                <title>Gas imports → Natural Gas: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,94.90196078431384C392.5,94.90196078431384,392.5,356.86274509803934,780,356.86274509803934" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>UK land based bioenergy → Bio-conversion: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,109.11764705882365C392.5,109.11764705882365,392.5,366.0784313725491,780,366.0784313725491" stroke="#1f77b4" stroke-width="9.215686274509803" />
+                <title>Agricultural 'waste' → Bio-conversion: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,208.62745098039218C392.5,208.62745098039218,392.5,375.2941176470589,780,375.2941176470589" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Other waste → Bio-conversion: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,217.843137254902C392.5,217.843137254902,392.5,398.7254901960785,780,398.7254901960785" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Other waste → Solid: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,123.33333333333346C392.5,123.33333333333346,392.5,389.50980392156873,780,389.50980392156873" stroke="#2ca02c" stroke-width="9.215686274509803" />
+                <title>Coal → Solid: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,137.54901960784323C392.5,137.54901960784323,392.5,145.98039215686273,780,145.98039215686273" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Oil → Liquid: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,151.76470588235304C392.5,151.76470588235304,392.5,169.41176470588235,780,169.41176470588235" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Natural Gas → Gas: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,315.78431372549016C392.5,315.78431372549016,392.5,407.9411764705883,780,407.9411764705883" stroke="#ff7f0e" stroke-width="9.215686274509803" />
+                <title>Bio-conversion → Solid: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,297.3529411764706C392.5,297.3529411764706,392.5,155.19607843137254,780,155.19607843137254" stroke="#ff7f0e" stroke-width="9.215686274509803" />
+                <title>Bio-conversion → Liquid: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,306.5686274509804C392.5,306.5686274509804,392.5,178.62745098039215,780,178.62745098039215" stroke="#ff7f0e" stroke-width="9.215686274509803" />
+                <title>Bio-conversion → Gas: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,324.99999999999994C392.5,324.99999999999994,392.5,464.0196078431373,780,464.0196078431373" stroke="#ff7f0e" stroke-width="9.215686274509803" />
+                <title>Bio-conversion → Losses: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,232.0588235294118C392.5,232.0588235294118,392.5,192.84313725490196,780,192.84313725490196" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Solid → Thermal generation: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,339.21568627450984C392.5,339.21568627450984,392.5,202.05882352941177,780,202.05882352941177" stroke="#7f7f7f" stroke-width="9.215686274509803" />
+                <title>Gas → Thermal generation: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,264.7058823529412C392.5,264.7058823529412,392.5,4.607843137254788,780,4.607843137254788" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Thermal generation → District heating: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,273.921568627451C392.5,273.921568627451,392.5,440.5882352941177,780,440.5882352941177" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Thermal generation → Electricity grid: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,283.1372549019608C392.5,283.1372549019608,392.5,454.8039215686275,780,454.8039215686275" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Thermal generation → Losses: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,165.98039215686285C392.5,165.98039215686285,392.5,422.1568627450981,780,422.1568627450981" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Wind → Electricity grid: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,180.19607843137263C392.5,180.19607843137263,392.5,431.3725490196079,780,431.3725490196079" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Hydro → Electricity grid: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,551.9607843137254C392.5,551.9607843137254,392.5,482.45098039215685,780,482.45098039215685" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Losses: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,194.4117647058824C392.5,194.4117647058824,392.5,538.529411764706,780,538.529411764706" stroke="#8c564b" stroke-width="9.215686274509803" />
+                <title>District heating → Industry: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,496.6666666666666C392.5,496.6666666666666,392.5,225.49019607843138,780,225.49019607843138" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Heating and cooling - homes: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,348.4313725490196C392.5,348.4313725490196,392.5,216.27450980392157,780,216.27450980392157" stroke="#7f7f7f" stroke-width="9.215686274509803" />
+                <title>Gas → Heating and cooling - homes: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,505.88235294117635C392.5,505.88235294117635,392.5,248.921568627451,780,248.921568627451" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Heating and cooling - commercial: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,357.6470588235294C392.5,357.6470588235294,392.5,239.7058823529412,780,239.7058823529412" stroke="#7f7f7f" stroke-width="9.215686274509803" />
+                <title>Gas → Heating and cooling - commercial: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,515.0980392156861C392.5,515.0980392156861,392.5,272.3529411764706,780,272.3529411764706" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Lighting &amp; appliances - homes: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,366.86274509803917C392.5,366.86274509803917,392.5,263.13725490196083,780,263.13725490196083" stroke="#7f7f7f" stroke-width="9.215686274509803" />
+                <title>Gas → Lighting &amp; appliances - homes: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,524.3137254901959C392.5,524.3137254901959,392.5,295.7843137254902,780,295.7843137254902" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Lighting &amp; appliances - commercial: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,376.07843137254895C392.5,376.07843137254895,392.5,286.56862745098044,780,286.56862745098044" stroke="#7f7f7f" stroke-width="9.215686274509803" />
+                <title>Gas → Lighting &amp; appliances - commercial: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,570.3921568627451C392.5,570.3921568627451,392.5,575.3921568627453,780,575.3921568627453" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Industry: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,250.4901960784314C392.5,250.4901960784314,392.5,547.7450980392158,780,547.7450980392158" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Solid → Industry: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,482.4509803921567C392.5,482.4509803921567,392.5,566.1764705882355,780,566.1764705882355" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Liquid → Industry: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,403.7254901960783C392.5,403.7254901960783,392.5,556.9607843137256,780,556.9607843137256" stroke="#7f7f7f" stroke-width="9.215686274509803" />
+                <title>Gas → Industry: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,561.1764705882352C392.5,561.1764705882352,392.5,524.3137254901961,780,524.3137254901961" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Agriculture: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,241.2745098039216C392.5,241.2745098039216,392.5,496.66666666666674,780,496.66666666666674" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Solid → Agriculture: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,473.2352941176469C392.5,473.2352941176469,392.5,515.0980392156863,780,515.0980392156863" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Liquid → Agriculture: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,394.5098039215685C392.5,394.5098039215685,392.5,505.8823529411765,780,505.8823529411765" stroke="#7f7f7f" stroke-width="9.215686274509803" />
+                <title>Gas → Agriculture: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,533.5294117647057C392.5,533.5294117647057,392.5,319.21568627450984,780,319.21568627450984" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Road transport: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,454.80392156862735C392.5,454.80392156862735,392.5,310.00000000000006,780,310.00000000000006" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Liquid → Road transport: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,542.7450980392156C392.5,542.7450980392156,392.5,342.6470588235295,780,342.6470588235295" stroke="#e377c2" stroke-width="9.215686274509803" />
+                <title>Electricity grid → Rail transport: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,464.0196078431371C392.5,464.0196078431371,392.5,333.4313725490197,780,333.4313725490197" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Liquid → Rail transport: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,417.94117647058823C392.5,417.94117647058823,392.5,18.823529411764568,780,18.823529411764568" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Liquid → Domestic aviation: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,427.156862745098C392.5,427.156862745098,392.5,33.0392156862744,780,33.0392156862744" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Liquid → National navigation: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,436.3725490196078C392.5,436.3725490196078,392.5,47.25490196078424,780,47.25490196078424" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Liquid → International aviation: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,445.58823529411757C392.5,445.58823529411757,392.5,61.47058823529407,780,61.47058823529407" stroke="#cccccc" stroke-width="9.215686274509803" />
+                <title>Liquid → International shipping: 1</title>
+            </g>
+            <g style="mix-blend-mode: multiply;">
+                <path d="M5,385.2941176470587C392.5,385.2941176470587,392.5,473.2352941176471,780,473.2352941176471" stroke="#7f7f7f" stroke-width="9.215686274509803" />
+                <title>Gas → Losses: 1</title>
+            </g>
+        </g>
+        <g>
+            <text x="9" y="9.607843137255015" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Coal reserves</tspan></text>
+            <text x="9" y="23.823529411764817" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Coal imports</tspan></text>
+            <text x="9" y="38.039215686274616" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Oil reserves</tspan></text>
+            <text x="9" y="52.25490196078442" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Oil imports</tspan></text>
+            <text x="9" y="66.47058823529423" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gas reserves</tspan></text>
+            <text x="9" y="80.68627450980404" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gas imports</tspan></text>
+            <text x="9" y="94.90196078431384" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">UK land based bioenergy</tspan></text>
+            <text x="9" y="109.11764705882365" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Agricultural 'waste'</tspan></text>
+            <text x="9" y="123.33333333333346" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Coal</tspan></text>
+            <text x="9" y="137.54901960784326" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Oil</tspan></text>
+            <text x="9" y="151.76470588235304" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Natural Gas</tspan></text>
+            <text x="776" y="4.6078431372547755" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">District heating</tspan></text>
+            <text x="9" y="165.98039215686285" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Wind</tspan></text>
+            <text x="9" y="180.19607843137263" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Hydro</tspan></text>
+            <text x="9" y="194.4117647058824" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">District heating</tspan></text>
+            <text x="776" y="18.823529411764582" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Domestic aviation</tspan></text>
+            <text x="776" y="33.03921568627442" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">National navigation</tspan></text>
+            <text x="776" y="47.25490196078425" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">International aviation</tspan></text>
+            <text x="776" y="61.47058823529409" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">International shipping</tspan></text>
+            <text x="776" y="80.29411764705881" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Coal</tspan></text>
+            <text x="776" y="103.72549019607843" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Oil</tspan></text>
+            <text x="776" y="127.15686274509804" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Natural Gas</tspan></text>
+            <text x="9" y="213.2352941176471" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Other waste</tspan></text>
+            <text x="776" y="150.58823529411765" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Liquid</tspan></text>
+            <text x="776" y="174.01960784313727" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gas</tspan></text>
+            <text x="776" y="197.45098039215688" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Thermal generation</tspan></text>
+            <text x="776" y="220.8823529411765" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Heating and cooling - homes</tspan></text>
+            <text x="776" y="244.3137254901961" text-anchor="end">
+                <tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Heating and cooling - commercial</tspan>
+            </text>
+            <text x="776" y="267.7450980392157" text-anchor="end">
+                <tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Lighting &amp; appliances - homes</tspan>
+            </text>
+            <text x="776" y="291.17647058823536" text-anchor="end">
+                <tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Lighting &amp; appliances - commercial</tspan>
+            </text>
+            <text x="776" y="314.607843137255" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Road transport</tspan></text>
+            <text x="776" y="338.0392156862746" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Rail transport</tspan></text>
+            <text x="776" y="366.0784313725491" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Bio-conversion</tspan></text>
+            <text x="776" y="398.7254901960785" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Solid</tspan></text>
+            <text x="9" y="241.2745098039216" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Solid</tspan></text>
+            <text x="9" y="273.921568627451" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Thermal generation</tspan></text>
+            <text x="776" y="431.3725490196079" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Electricity grid</tspan></text>
+            <text x="9" y="311.1764705882353" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Bio-conversion</tspan></text>
+            <text x="776" y="468.6274509803922" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Losses</tspan></text>
+            <text x="776" y="510.49019607843144" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Agriculture</tspan></text>
+            <text x="776" y="556.9607843137255" text-anchor="end"><tspan alignment-baseline="middle" x="776" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Industry</tspan></text>
+            <text x="9" y="371.47058823529414" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gas</tspan></text>
+            <text x="9" y="450.1960784313725" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Liquid</tspan></text>
+            <text x="9" y="533.5294117647057" text-anchor="start"><tspan alignment-baseline="middle" x="9" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Electricity grid</tspan></text>
+        </g>
+        <g>
+            <text x="2.5" y="1.0000000000001137" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">From</text>
+            <text x="782.5" y="-4.000000000000114" text-anchor="middle" style="font-family: Arial, sans-serif; font-size: 12px; fill: rgb(123, 123, 123); font-weight: bold;">To</text>
+        </g>
+    </g>
+</svg>
